@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="idioma">Idioma</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Ingles</string>
+    <string name="genero">Genero</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="Cancelar">CANCELAR</string>
+    <string name="app_name">Parcial Final</string>
+    <string name="action_mayuscula">Mayuscula</string>
+    <string name="action_listado">Listado</string>
+
+    <string name="action_ordenar_genero">Ordenar por genero</string>
+    <string name="action_ordenar_nombre">Ordenar A-Z por nombre</string>
+    <string name="action_invertir">Invertir lista</string>
+    <string name="action_eliminar_primero">Eliminar la primera</string>
+
+    <string name="nombre_pelicula">Nombre de la pelicula</string>
+    <string name="director">Director</string>
+
+</resources>
